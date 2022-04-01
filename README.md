@@ -1,4 +1,4 @@
-# EsolMediaMarkt
+# ReactMediaMarkt
 Prueba web api 5.0 + Reaccionar
 
 Este repositorio está hecho para prueba asignada.
